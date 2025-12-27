@@ -1,5 +1,5 @@
 # PROJECT:
-****Employee Payroll System****
+****Employee Payroll System*****
 
 ## DESCRIPTION:
 → The Employee Payroll System is a C-based software designed to automate the management of employee records and salary processing.
